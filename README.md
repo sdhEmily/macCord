@@ -7,9 +7,9 @@
 
 ### Discord App
 
-* BetterDiscord, Vencord, and Openasar users can grab the [macCord.theme.css](https://raw.githubusercontent.com/sdhEmily/macCord/main/macCord.theme.css) file and either
+* BetterDiscord, Vencord, and OpenAsar users can grab the [macCord.theme.css](https://raw.githubusercontent.com/sdhEmily/macCord/main/macCord.theme.css) file and either
   * Place the file in the BetterDiscord or Vencord themes folder
-  * Copy the text in the file, and paste it in Openasar's quick CSS text field
+  * Copy the text in the file, and paste it in OpenAsar's quick CSS text field
  
 ### Browser 
  * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/sdhEmily/macCord/raw/main/macCord.user.css)
@@ -26,6 +26,7 @@ This theme supports translucency.
 ### You can achieve the same look on Vencord/macOS by doing as follows:
 
 * Go to Settings > Vencord, then toggle "Enable Translucent Window".
+* If you're using Suncord scroll down and set "Window vibrancy style" to "HUD"
 
 ![image](https://user-images.githubusercontent.com/76500838/231659229-4f261d16-304e-4904-b9f5-88478ab2fe89.png)
 
@@ -48,7 +49,7 @@ This theme supports translucency.
  
 ## Extra info
 <details>
-<summary>Information about accents, themes, emoji, fonts, and more!</summary>
+<summary>Changing the accent color</summary>
 
 * You can very easily [change the accent color](https://cdn.discordapp.com/attachments/816373850647953439/984177819204603924/unknown.png) for macCord by navigating to `/src/_theming.scss` and [uncommenting **>>>one<<<**](https://github.com/SlippingGittys-Discord-Themes/macCord/blob/main/src/_theming.scss) of the accent colors.  
   
