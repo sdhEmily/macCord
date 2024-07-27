@@ -1,7 +1,7 @@
 <h1 align="center">macCord</h1>
 <p align="center">Pretty.</p>
 
-# ![screenshot](https://raw.githubusercontent.com/sdhEmily/macCord/main/assets/preview.png)
+# ![screenshot](/assets/preview.png)
 
 ## How to use
 
@@ -51,9 +51,7 @@ This theme supports translucency.
 <details>
 <summary>Changing the accent color</summary>
 
-* You can very easily [change the accent color](https://cdn.discordapp.com/attachments/816373850647953439/984177819204603924/unknown.png) for macCord by navigating to `/src/_theming.scss` and [uncommenting **>>>one<<<**](https://github.com/SlippingGittys-Discord-Themes/macCord/blob/main/src/_theming.scss) of the accent colors.  
-  
-  BD and Stylus can uncomment these in macCord.theme.css / macCord.user.css
+* You can very easily change the accent color for macCord by opening the theme css and uncommenting >>>ONE<<< of the accent colors.  
 
 * Stylus users on Firefox have to be on version 102 or later and toggle "Patch CSP to allow style assets"  
   Chromium browsers shall be fine by default on any recent version.
