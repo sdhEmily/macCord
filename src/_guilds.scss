@@ -6,7 +6,7 @@
 .theme-dark {
     .guilds_a4d4d9 .scroller_fea3ef,
     .wrapper_fea3ef {
-        background-color: var(--surCordGuilds);
+        background-color: var(--macCordGuilds);
     }
     .platform-osx .unreadMentionsIndicatorTop_fea3ef .unreadMentionsBar_fea3ef,
     .unreadMentionsIndicatorBottom_fea3ef .unreadMentionsBar_fea3ef,
@@ -17,14 +17,14 @@
     .expandedFolderBackground_bc7085 {
         backdrop-filter: blur(20px);
         box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-        border: 1px solid var(--surCordBorder);
+        border: 1px solid var(--macCordBorder);
         border-radius: 15px;
         background: rgba(41, 38, 39, 0.276);
     }
     .closedFolderIconWrapper_bc7085 {
         backdrop-filter: blur(20px);
         box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-        border: 1px solid var(--surCordBorder);
+        border: 1px solid var(--macCordBorder);
         border-radius: 15px;
         background: rgba(41, 38, 39, 0.276);
     }
@@ -44,7 +44,7 @@
     }
     .circleIconButton_db6521 {
         backdrop-filter: blur(20px);
-        border: 1px solid var(--surCordBorder);
+        border: 1px solid var(--macCordBorder);
         border-radius: 15px;
         background: rgba(39, 38, 41, 0.276);
         color: var(--accent-selected);

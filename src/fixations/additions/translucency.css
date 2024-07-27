@@ -14,3 +14,7 @@
 .theme-dark .header_fd6364, .theme-light .header_fd6364 {
   border-bottom: none;
 }
+
+body, .appMount_ea7e65 {
+  background: transparent !important;
+}

@@ -196,13 +196,13 @@ input[type="checkbox"] {
 
 /* Color Pallete */
 .theme-dark {
-  --background-tertiary: var(--surCordBackground2);
-  --background-secondary: var(--surCordBackground2);
-  --background-secondary-alt: var(--surCordBackground2);
-  --background-primary: var(--surCordBackground);
-  --channeltextarea-background: var(--surCordTextBackground);
+  --background-tertiary: var(--macCordBackground2);
+  --background-secondary: var(--macCordBackground2);
+  --background-secondary-alt: var(--macCordBackground2);
+  --background-primary: var(--macCordBackground);
+  --channeltextarea-background: var(--macCordTextBackground);
   --background-accent: var(--accent);
-  --background-modifier-hover: var(--surCordHover);
+  --background-modifier-hover: var(--macCordHover);
   --background-modifier-active: rgb(30, 30, 30);
   --background-modifier-selected: var(--accent-selected);
   --deprecated-card-bg: #12141f63;
@@ -267,7 +267,7 @@ input[type="checkbox"] {
 
 /* Explore public servers */
 .theme-dark .pageWrapper_a3a4ce {
-  background-color: var(--surCordBackground2);
+  background-color: var(--macCordBackground2);
 }
 .theme-light .pageWrapper_a3a4ce {
   background-color: rgb(225, 225, 225);
@@ -275,22 +275,22 @@ input[type="checkbox"] {
 
 /* Server home page */
 .theme-dark .background_c54132 {
-  background-color: var(--surCordBackground);
+  background-color: var(--macCordBackground);
 }
 
 /* Server boost page */
 .theme-dark .perksModal-CLcR1c {
-  background-color: var(--surCordBackground);
+  background-color: var(--macCordBackground);
 }
 
 /* Forum channel background */
 .theme-dark .container-3wLKDe {
-  background-color: var(--surCordBackground2);
+  background-color: var(--macCordBackground2);
 }
 
-/* Add surCord Branding */
+/* Add macCord Branding */
 .info_c5a741 > span:first-child::after {
-  content: "\asurCord 10.2023";
+  content: "\amacCord 10.2023";
   color: var(--text-muted);
   white-space: pre;
   text-transform: none;

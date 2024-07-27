@@ -3,4 +3,10 @@
     --accent-hover: rgba(189, 3, 171, 0.977);
     --accent-selected: rgb(189, 3, 171, 0.612);
     --accent-focused: rgb(189, 3, 171, 0.200);
+    --brand-360: var(--accent);
+    --brand-500: var(--accent);
+    --brand-560: var(--accent-hover);
+    --button-secondary-background-hover: var(--accent-hover);
+    --button-secondary-background-active: var(--accent-selected);
+    --brand-600: var(--accent-selected);
   }

@@ -13,9 +13,9 @@
 .peopleListItem_d51464 {
     backdrop-filter: blur(20px);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
     border-radius: 5px;
-    background: var(--surCordFriends);
+    background: var(--macCordFriends);
     margin-bottom: 13px;
     margin-top: 13px;
     padding-left: 10px;
@@ -24,8 +24,8 @@
     backdrop-filter: blur(20px);
     box-shadow: 0 0 3px 1px var(--accent);
     transition: 0.3s;
-    border: 1px solid var(--surCordBorder);
-    background: var(--surCordFriends);
+    border: 1px solid var(--macCordBorder);
+    background: var(--macCordFriends);
     border-radius: 5px;
     background: rgba(41, 38, 39, 0.276);
     margin-bottom: 13px;
@@ -34,12 +34,12 @@
 .peopleListItem_d51464.active_d51464 {
     background: rgba(41, 38, 39, 0.276);
     margin-top: 13px;
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
     box-shadow: 0 0 3px 1px var(--accent);
     border-radius: 5px;
 }
 .peopleListItem_d51464.active_d51464+.peopleListItem_d51464, .peopleListItem_d51464:hover+.peopleListItem_d51464 {
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
 }
 .actions_e05dae {
     padding-right: 10px;
@@ -48,7 +48,7 @@
     margin-right: 13px;
 }
 .peopleColumn_c2739c {
-    background: var(--surcordFriendsBackground);
+    background: var(--macCordFriendsBackground);
     border-left: 0.5px solid black;
 }
 .highlight_e01b91 {
@@ -88,15 +88,15 @@
 .itemCard_f02fcf {
     backdrop-filter: blur(20px);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
     border-radius: 5px;
-    background: var(--surCordActiveNow);
+    background: var(--macCordActiveNow);
     margin-bottom: 13px;
     margin-top: 13px;
     padding-left: 10px;
 }
 .section_cd82a7:only-child {
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
 }
 
@@ -122,7 +122,7 @@
     box-shadow: 0 0 3px 1px rgba(26, 127, 251, 0.487);
     border-radius: 10px;
     transition: 0.3s;
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
     border-radius: 5px;
     background: rgba(41, 38, 39, 0.276);
     margin-bottom: 15px;
@@ -136,9 +136,9 @@
 .addFriendInputWrapper_de812f {
     backdrop-filter: blur(20px);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
-    border: 1px solid var(--surCordBorder);
+    border: 1px solid var(--macCordBorder);
     border-radius: 5px;
-    background: var(--surCordFriends);
+    background: var(--macCordFriends);
     margin-bottom: 13px;
     margin-top: 13px;
     padding-left: 10px;

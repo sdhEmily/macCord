@@ -1,6 +1,12 @@
 :root {
-    --accent: rgb(248, 74, 156);
-    --accent-hover: rgba(248, 74, 156, 0.977);
-    --accent-selected: rgb(248, 74, 156, 0.612);
-    --accent-focused: rgb(248, 74, 156, 0.200);
-  } 
+  --accent: rgb(248, 74, 156);
+  --accent-hover: rgba(248, 74, 156, 0.977);
+  --accent-selected: rgb(248, 74, 156, 0.612);
+  --accent-focused: rgb(248, 74, 156, 0.200);
+  --brand-360: var(--accent);
+  --brand-500: var(--accent);
+  --brand-560: var(--accent-hover);
+  --button-secondary-background-hover: var(--accent-hover);
+  --button-secondary-background-active: var(--accent-selected);
+  --brand-600: var(--accent-selected);
+} 

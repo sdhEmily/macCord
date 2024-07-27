@@ -8,7 +8,7 @@
 /* Title Bar */
 .theme-dark { 
 .container_e44302.themed_e44302, .header_fd6364 {
-    background: var(--surCordTitleBar);
+    background: var(--macCordTitleBar);
     border-bottom: .5px solid black;
 }
     .communityInfoVisible_fd6364 .header_fd6364, .communityInfoVisible_fd6364 .header_fd6364:hover, .hasBanner_fd6364 .header_fd6364, .hasBanner_fd6364 .header_fd6364:hover {
@@ -61,9 +61,9 @@
 /* Search and other Text fields */
 .theme-dark {
 .searchBar_a46bef, .searchBar_f0963d .searchBarComponent_f0963d, .inner__999f6, .wrapper_c4c084, .searchBar_c6ee36, .input_df4dd0 {
-    background-color: var(--surCordSearch);
+    background-color: var(--macCordSearch);
     border-radius: 4px;
-    border: 1px solid var(--surCordBorder); 
+    border: 1px solid var(--macCordBorder); 
 }
 .searchBar_a46bef:hover, .searchBar_f0963d .searchBarComponent_f0963d:hover, .wrapper_c4c084:hover,  .inner__999f6:hover, .searchBar_c6ee36:hover, .input_df4dd0:hover, .searchBar_e0840f:hover {
     box-shadow: 0 0 3px 3px var(--accent-focused);
